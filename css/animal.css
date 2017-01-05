@@ -1,0 +1,30 @@
+.chuck {
+  width: 500px;
+border: solid orange 5px;
+padding:5px 8px;
+float:left;
+
+
+}
+.oli {
+  width: 500px;
+  border: solid green 5px;
+  padding: 5px 8px;
+  margin: 10px;
+  float:right;
+
+
+}
+.stella {
+  width: 500px;
+  border: solid orange 5px;
+  padding: 5px 8px;
+  margin: 10px;
+  float:left;
+
+}
+
+img {
+  width: 500px;
+  height: 300px;
+}
